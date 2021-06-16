@@ -5,9 +5,9 @@ A ideia desta ferramenta é consumir memoria de um computador desejado, basta ex
 1. apt update
 2. apt install vim or nano
 3. apt install clang
-4. vim/nano filename.
-5. clang filename.c -o filename
-6. ./filename
+4. vim/nano Attack_OS.exe.cpp.
+5. clang filename.c -o Attack_OS.exe.cpp
+6. ./Attack_OS.exe.cpp
 
 ![imagem](https://github.com/ZeusXaloc-Dev/Computer-Security/blob/main/virus-pc_dev.jpg)
 
