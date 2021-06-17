@@ -12,7 +12,7 @@ code by Zeus Xaloc Dev
 void consumirMemoria(){
  double *ptr;
   while(1){
-ptr = (double)malloc(100);
+ptr = (double*)malloc(100);
   }
 }
 
@@ -20,7 +20,7 @@ int main(){
     
  int menu;
  
-  printf("Digite 1 para executar || Digite 2 para sair: ");
+  printf("•Digite 1 para iniciar || •Digite 2 para sair: ");
   scanf("%i", &menu);
   
   if(menu == 1){
