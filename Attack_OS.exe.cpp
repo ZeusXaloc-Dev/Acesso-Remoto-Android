@@ -21,7 +21,7 @@ int main(){
  int menu;
 
   printf("\n{1} iniciar || {2} sair || {3} credits");
-  printf("\n•Digite o Número:");
+  printf("\n\n•Digite o Número:");
   scanf("%i", &menu);
   
   if(menu == 1){
