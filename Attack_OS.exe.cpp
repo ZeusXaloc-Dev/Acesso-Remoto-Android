@@ -12,7 +12,7 @@ code by Zeus Xaloc Dev
 void consumirMemoria(){
  double *ptr;
   while(1){
-(double*)malloc(1000);
+ptr = (double)malloc(100);
   }
 }
 
