@@ -19,14 +19,9 @@ ptr = (double*)malloc(100);
 int main(){ 
     
  int menu;
-  
-  printf("+----------------+
-|    Desenvolvida 
-         Por   
-      Zeus Xaloc              |
-+----------------+");
-  printf("\n•Digite 1 para iniciar || •Digite 2 para sair ");
-  printf("\n•Digite o Número: ");
+
+  printf("\n{1} iniciar || {2} sair || {3} credits");
+  printf("\n•Digite o Número:");
   scanf("%i", &menu);
   
   if(menu == 1){
