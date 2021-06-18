@@ -29,7 +29,5 @@ int main(){
   }else{
    printf("\nSaindo do sistema...\n\n");
   }
-
- system("pause");
 return 0; 
 }
