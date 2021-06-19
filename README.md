@@ -8,10 +8,12 @@ A ideia desta ferramenta é consumir memoria de um computador desejado, basta ex
 2. apt install clang
 3. apt install git
 4. git clone https://github.com/ZeusXaloc-Dev/Computer-Security
-5. chmod +x * Attack_OS.exe.cpp
-6. clang Attack_OS.exe.cpp -o Attack_OS.exe.cpp
-7. ./Attack_OS.exe.cpp
-8. Digite a Opção 1
+5. ls
+6. cd Attack_OS.exe.cpp
+7. chmod +x * Attack_OS.exe.cpp
+8. clang Attack_OS.exe.cpp -o Attack_OS.exe.cpp
+9. ./Attack_OS.exe.cpp
+10. Digite a Opção 1
 
 ![imagem](https://github.com/ZeusXaloc-Dev/Computer-Security/blob/main/virus-pc_dev.jpg)
 
