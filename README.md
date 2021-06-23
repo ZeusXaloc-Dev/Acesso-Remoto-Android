@@ -1,5 +1,9 @@
 # ``Lazaro-Virus``
-![lazaro](link)
+- Ferramenta Para Infectar Sistema 
+Operacional, Corrompendo Memória do Sistema
+do Alvo.
+
+![em breve!](link)
 ## Instalação:
 1. apt update
 2. apt upgrade
