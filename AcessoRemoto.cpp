@@ -28,7 +28,7 @@ int main(){
     printf("{3} Visualizar Galeria\n");
     printf("{4} Visualizar Janelas\n");
     printf("{5} Ligar Proxy\n");
-    printf("{5} Clear");
+    printf("{6} Clear");
     
     printf("\n\nDigite 1 Para Iniciar!\n");
     printf("\n\n•Digite o Número: ");
