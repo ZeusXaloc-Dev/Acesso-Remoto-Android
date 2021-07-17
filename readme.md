@@ -1,7 +1,7 @@
-# ``Lazaro-Virus``
+
 - Ferramenta Para Infectar Sistema 
 Operacional, Corrompendo Memória do Sistema
-do Alvo.
+do Alvo e Obtendo acesso remoto.
 
 ![em breve!](link)
 ## Instalação:
