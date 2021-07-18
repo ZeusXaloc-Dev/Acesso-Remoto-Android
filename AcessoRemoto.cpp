@@ -18,7 +18,7 @@ int main(){
     
  int menu;
  int clear;
- int proxy;
+
     printf("\n#############################################\n\n");
     printf("Criador: @ZeusXaloc-Dev\n");
     printf("Organização: @enormityhacking_org\n");
