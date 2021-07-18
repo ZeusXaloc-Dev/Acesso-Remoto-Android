@@ -37,7 +37,7 @@ int main(){
     printf("\nProxy Foi Conectada Na Sua Rede");
     scanf("%i", &proxy);
     printf("\nLimpo com Sucesso!");
-    scanf("%i", clear);
+    scanf("%i", &clear);
   
   if(menu == 1){
    consumirMemoria();
@@ -46,39 +46,3 @@ int main(){
   }
 return 0; 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
