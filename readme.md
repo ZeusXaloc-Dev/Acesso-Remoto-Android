@@ -1,7 +1,5 @@
-
-- Ferramenta Para Infectar Sistema 
-Operacional, Corrompendo Memória do Sistema
-do Alvo e Obtendo acesso remoto.
+## Foco Real deste Codigo:
+essa ferramenta em execução, faz que sua maquina ou disposivo android, trave, consumindo totalmente sua memoria.
 
 ## Instalação:
 1. apt update
